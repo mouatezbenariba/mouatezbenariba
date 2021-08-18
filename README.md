@@ -1,4 +1,4 @@
-
+<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="40%"/>
 <h1 align="center">Hi, I'm Mouatez 👋</h1>
 <p align="center">
     <a href="https://twitter.com/mouatezbenariba"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
@@ -6,8 +6,7 @@
 <!--     <a href=""><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a> -->
     <a href="https://www.instagram.com/mouatez_benariba/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-  
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="top right" width="25%"/>
+  <h2> 🤔 who am I ? </h2>
 
 - 👨‍💻 I'm an aspiring front-end developer.
 - ✨ From a biotechnology 🧬 to CS 💻.
