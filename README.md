@@ -7,10 +7,10 @@
     <a href="https://www.instagram.com/mouatez_benariba/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="top right" width="25%"/>
 
-- I'm an aspiring front-end developer👨‍💻.
-- From a biotechnology 🧬 to CS 💻.
-- Im' currently learning HTML and CSS.
-- I am willing to be one of the best developers in the world 🎩.
-- I enjoy make outstanding PowerPoint presentations/animation 🎨.
+- 👨‍💻 I'm an aspiring front-end developer.
+- ✨ From a biotechnology 🧬 to CS 💻.
+- 📚 Im' currently learning HTML and CSS.
+- 🎩 I am willing to be one of the best developers in the world .
+- 🎨 I enjoy make outstanding PowerPoint presentations/animation .
