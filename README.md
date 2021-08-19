@@ -13,6 +13,5 @@
 - 👨‍💻 I'm an aspiring front-end developer.
 - ✨ From biotechnology 🧬 to CS 💻 (in progress).
 - 📚 I'm currently learning HTML and CSS.
-- 🎩 I am willing to be one of the best developers in the world .
 - 🎨 I enjoy making outstanding PowerPoint presentations/animation .
 - ✌ Feel free to fork !
