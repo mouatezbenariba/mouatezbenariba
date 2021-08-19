@@ -1,4 +1,4 @@
-<img src="https://github.com/mouatezbenariba/mouatezbenariba/blob/main/profile.png" align="right" width="20%"/>
+<!-- <img src="https://github.com/mouatezbenariba/mouatezbenariba/blob/main/profile.png" align="right" width="20%"/> -->
 
 <h1 align="center">Hi, I'm Mouatez 👋</h1>
 <p align="center">
@@ -11,8 +11,7 @@
   <h2> 🤔 who am I ? </h2>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouatezbenariba&layout=compact) -->
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouatezbenariba&layout=compact" align="right" width="20%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouatezbenariba&layout=compact" align="right">
 
 - 👨‍💻 I'm an aspiring front-end developer.
 - ✨ From a biotechnology 🧬 to CS 💻.
