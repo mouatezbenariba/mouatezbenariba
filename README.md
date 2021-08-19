@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouatezbenariba&layout=compact" align="right">
 
 - 👨‍💻 I'm an aspiring front-end developer.
-- ✨ From a biotechnology 🧬 to CS 💻.
+- ✨ From biotechnology 🧬 to CS 💻.
 - 📚 I'm currently learning HTML and CSS.
 - 🎩 I am willing to be one of the best developers in the world .
 - 🎨 I enjoy make outstanding PowerPoint presentations/animation .
