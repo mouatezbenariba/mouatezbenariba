@@ -1,5 +1,3 @@
-<!-- <img src="https://github.com/mouatezbenariba/mouatezbenariba/blob/main/profile.png" align="right" width="20%"/> -->
-
 <h1 align="center">Hi, I'm Mouatez 👋</h1>
 <p align="center">
     <a href="https://twitter.com/mouatezbenariba"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
@@ -10,7 +8,6 @@
  
   <h2> 🤔 who am I ? </h2>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouatezbenariba&layout=compact) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouatezbenariba&layout=compact" align="right">
 
 - 👨‍💻 I'm an aspiring front-end developer.
