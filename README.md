@@ -6,7 +6,7 @@
 ### About Me 🚀 
 - I'm an aspiring Front End Developer</br>
 - Currently focusing on solving/creating HTML/CSS3 challenges/projects</br>
-- Check my last [<b>project</b>](https://github.com/mouatezbenariba/template-html-css-01)</br>
+- Check my last [<b>project</b>](https://github.com/mouatezbenariba/template-html-css-02)</br>
 - Feel free to fork !
 
 
