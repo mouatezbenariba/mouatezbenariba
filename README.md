@@ -5,7 +5,7 @@
  
 ### About Me 🚀 
 - I'm an aspiring Front End Developer</br>
-- Currently I'm learning Javascript and solving [Elzero Frontend Challenges](https://github.com/mouatezbenariba/Elzero-Frontend-Challenges)</br>
+- Currently I'm learning [<b>Javascript</b>](https://github.com/mouatezbenariba/elzero-progression#learn-javascript-in-arabic-2021-in-progress) and focusing on solving [<b>Elzero Frontend Challenges</b>](https://github.com/mouatezbenariba/Elzero-Frontend-Challenges)</br>
 - Check my last [<b>project</b>](https://github.com/mouatezbenariba/template-html-css-03) </br>
 - Feel free to fork !
 
