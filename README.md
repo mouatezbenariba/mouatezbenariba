@@ -1,4 +1,4 @@
-# Hi, I'm [Mouatez](https://www.linkedin.com/in/mouatezbenariba/) <img src="https://github.com/mouatezbenariba/mouatezbenariba/blob/main/Hi.gif" width="35px">
+# Hi, I'm [Mouatez](https://www.linkedin.com/in/mouatezbenariba/) 👨‍💻
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouatezbenariba&layout=compact" align="right" style="width: 40%"> 
 
