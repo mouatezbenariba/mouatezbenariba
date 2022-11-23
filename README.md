@@ -1,7 +1,4 @@
 # Hi, I'm [Mouatez](https://www.linkedin.com/in/mouatezbenariba/) 👨‍💻
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouatezbenariba&layout=compact" align="right" style="width: 40%"> 
-
  
 ### About Me 🚀 
 - I'm an aspiring Front End Developer and Biotechnology PhD Student</br>
