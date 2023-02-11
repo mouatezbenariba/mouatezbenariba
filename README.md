@@ -1,11 +1,7 @@
 # Hi, I'm [Mouatez](https://www.linkedin.com/in/mouatezbenariba/) 👨‍💻
  
 ### About Me 🚀 
-- I'm an aspiring Front End Developer and Biotechnology PhD Student</br>
-- I'm currently learning [<b>Javascript</b>](https://github.com/mouatezbenariba/elzero-progression#learn-javascript-in-arabic-2021-in-progress) and focusing on solving [<b>Elzero Frontend Challenges</b>](https://github.com/mouatezbenariba/Elzero-Frontend-Challenges)</br>
-- Check my last project : [<b>Elzero Dashboard</b>](https://github.com/mouatezbenariba/template-html-css-04)</br>
-- Feel free to fork !
-
+- As an aspiring Frontend Developer with an engineering background in Biotechnology, I am eager to make a career shift and bring my engineering mindset, detail-oriented approach, and passion for the web to the field. I love turning designs into responsive, accessible, and high-performing websites, always seeking knowledge and staying up-to-date with the latest developments in frontend development.
 
 ### Reach me 📬
 <p>
